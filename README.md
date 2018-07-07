@@ -13,3 +13,6 @@ git commit
 
 git push
   - 上傳
+
+touch .gitignore
+  - 內部寫的檔案和資料夾會忽略更新
